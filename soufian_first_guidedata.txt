@@ -60,50 +60,50 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://devby.io/storage/images/48/74/67/02/derived/35603fa14a4c790943c59ed98a0b901c.jpg",
+	 "title": "User-Friendly Interface",
+	 "text": "Rustore boasts an intuitive and user-friendly interface, making it accessible to both tech-savvy professionals and those less familiar with complex inventory management systems. The clean design and straightforward navigation contribute to a seamless user experience, reducing the learning curve for new users.",
+	 "text_two": "",
 
-	 "isLocked": true,
+	 "isLocked": false,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://www.it-world.ru/upload/iblock/4f4/dcra163y2s0asfgj8yg7hs0jnsxhe8r6.jpg",
+	 "title": "Real-Time Inventory Tracking",
+	 "text": "One of Rustore's standout features is its ability to provide real-time inventory tracking. This means that businesses can monitor their stock levels, sales, and order fulfillment instantaneously. This real-time data empowers organizations to make informed decisions, prevent stockouts, and optimize their supply chain processes.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://wylsa.com/wp-content/uploads/2023/02/rustore_1.jpg",
+	 "title": "Multi-Platform Accessibility",
+	 "text": "Rustore is designed to be accessible across multiple platforms, including desktops, laptops, tablets, and smartphones. This flexibility enables users to manage their inventory on the go, ensuring that critical decisions can be made anytime, anywhere. The application's cloud-based architecture further enhances accessibility and collaboration among team members.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://sun6-23.userapi.com/impg/AU-GpHt5gerHQZaLkxIksLW3Xos2ynSROr4UZA/FASBhpz90WA.jpg?size=800x524&quality=96&sign=26473f0e9afbe0823c719ec3aa89c8f8&c_uniq_tag=JIwWPeol6_Co-q3CsaLI0X6e9db9fyVHvNPI6q3v3oA&type=album",
+	 "title": "Advanced Analytics and Reporting",
+	 "text": "Rustore goes beyond basic inventory management by offering advanced analytics and reporting tools. Businesses can gain insights into trends, identify top-performing products, and analyze sales patterns. These analytics empower organizations to make data-driven decisions that can lead to increased profitability and strategic growth.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://cdn.comss.net/img/072022/vkrustore_1.png",
+	 "title": "Customizable and Scalable",
+	 "text": "Rustore recognizes that every business is unique, and its customizable features reflect this understanding. Users can tailor the application to meet their specific needs, whether it's creating custom fields, adjusting workflows, or integrating with other business systems. Additionally, Rustore is scalable, capable of accommodating the growing needs of businesses as they expand.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
@@ -113,68 +113,68 @@
 
   "more_apps": [
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchii  Online",
+		"app_url": "com.moonfrog.ludo.club"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super4.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super4king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super.king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super4king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
 		"app_title": "Parchisi STAR Online",
 		"app_url": "com.superking.parchisi.star"
 	  },
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi  Online",
+		"app_url": "com.super.king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
 		"app_title": "Parchisi STAR Online",
+		"app_url": "com.super.king.parchisi.star"
+	  },
+	  {
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi  ",
 		"app_url": "com.superking.parchisi.star"
 	  },
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": " STAR Online",
 		"app_url": "com.superking.parchisi.star"
 	  },
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi STAR ",
 		"app_url": "com.superking.parchisi.star"
 	  },
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": "Parchisi  Online",
 		"app_url": "com.superking.parchisi.star"
 	  },
 	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
-		"app_url": "com.superking.parchisi.star"
-	  },
-	  {
-		"app_icon": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-		"app_title": "Parchisi STAR Online",
+		"app_icon": "https://play-lh.googleusercontent.com/mYXRvkAN-NgcdiJu1owpVtGPYKyAZTo1AaIflJ7qlkLDBtpkBw2W_bytIwg9I5m4826f=s48-rw",
+		"app_title": " STAR Online",
 		"app_url": "com.superking.parchisi.star"
 	  }
   ]
