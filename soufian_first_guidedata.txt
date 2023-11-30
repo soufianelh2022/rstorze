@@ -50,10 +50,10 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://avatars.mds.yandex.net/i?id=f05ce5c55bf1f7ace60da5a947e09be282ffa3ef-8567399-images-thumbs&n=13",
+	 "title": "restore helper apk",
+	 "text": "Exploring Rustore: A Revolutionary Application for Streamlining Inventory Management In the dynamic landscape of modern business, efficient inventory management is crucial for success. Enter Rustore, a revolutionary application designed to streamline and optimize the way businesses handle their inventory. This article will delve into the key features and benefits of Rustore, showcasing how it has become a game-changer for organizations seeking to enhance their operational efficiency.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
